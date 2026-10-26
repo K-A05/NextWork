@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.jpg" alt="NextWork projects logo" width="160" />
+  <img src="./assets/logo.jpg" alt="NextWork projects logo" />
 </p>
 
 # NextWork Projects
