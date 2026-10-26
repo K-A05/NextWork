@@ -1,0 +1,6 @@
+.env
+*.csv
+.venv/
+.DS_Store
+legendary-*.pdf
+__pycache__/
