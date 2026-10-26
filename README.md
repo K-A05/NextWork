@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.jpg" alt="NextWork projects logo" width="160" />
+</p>
+
 # NextWork Projects
 
 A collection of hands-on cloud, distributed systems and security projects, built by hand (not copy-pasted) to understand what each step is doing. Each project follows a [NextWork](https://nextwork.ai) guide and has its own README with notes, screenshots and lessons learned.
